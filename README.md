@@ -16,6 +16,6 @@ We used the Keras linear model which is explained [here](https://medium.com/@pau
 
 # Some advice
 
-    -The quality of the data is paramount. Do not hesitate to collect data again if it is not good.  The quality of the model depends largely on the data. If the data is not good, the model will not be good either.  
+-The quality of the data is paramount. Do not hesitate to collect data again if it is not good.  The quality of the model depends largely on the data. If the data is not good, the model will not be good either.  
 	
-    -The files that make up the donkey file are very numerous and long to read and understand but they are a real asset for understanding the functioning of the car. We started to read them too late, although they contained crucial information.
+-The files that make up the donkey file are very numerous and long to read and understand but they are a real asset for understanding the functioning of the car. We started to read them too late, although they contained crucial information.
