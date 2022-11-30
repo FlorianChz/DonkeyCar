@@ -14,7 +14,7 @@ for iname in glob.glob(f'{folder_dir}/*.jpg'):
     try:
         img = cv.imread(iname)
         img = cv.undistort(img, mtx, dist, None, newcameramtx)
-        img = img[74:120, 10:310]
+        img = img[50:120, 10:310]
         cv.imwrite(iname,img)
     except:
         print("ya une erreur wsh")
